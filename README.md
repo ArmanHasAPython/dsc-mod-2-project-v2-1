@@ -1,6 +1,15 @@
 
 # Module 2 Final Project
 
+## Index
+
+Here is the index for the files in the repository and what they contain
+
+## Summary
+
+This contains the approach for my project and what I discovered.
+
+
 
 ## Introduction
 
